@@ -9,9 +9,12 @@ NOTICE:
 1: The code is not yet well organized and annotated.
 2: The basic algorithm is not totally completed, the results are incomplete.
 3: Error may arise very rarely, the author is still trying to find the bug out.
+.....This repository is still in improvement.....
 
 external library:
 networkx 1.9.1 is needned.
 
 execution environment:
 python 2.7
+
+by @author Tao Liu
